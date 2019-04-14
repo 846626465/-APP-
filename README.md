@@ -18,7 +18,8 @@
 ![彩虹图](d.png)</br>
 ## 卡片设计
 - [鱼骨图设计](http://naotu.baidu.com/file/b2a12c2257beedcf25f16f0b46a2d50f)
-- 以下为鱼骨图的卡片设计：
+- 以下为鱼骨图的卡片设计：</br>
+
 ![疑惑](1.png)</br>
 ![焦虑](2.jpg)</br>
 ![失望](3.jpg)</br>
