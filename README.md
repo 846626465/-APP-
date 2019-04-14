@@ -8,16 +8,16 @@
 然后我们制作了彩虹图，更清楚明白的看到不同性别用户侧重不同的方面评价，同时制作了亲和图来分类不同功能侧重的评论。
 ## 卡片设计
 ![疑惑](1.png)</br>
-![avatar](2.jpg)</br>
-![avatar](3.jpg)</br>
-![avatar](4.jpg)</br>
-![avatar](5.jpg)</br>
-![avatar](6.jpg)</br>
-![avatar](7.png)</br>
-![avatar](8.png)</br>
-![avatar](9.jpg)</br>
-![avatar](0.png)</br>
-![avatar](11.jpg)</br>
+![焦虑](2.jpg)</br>
+![失望](3.jpg)</br>
+![活力](4.jpg)</br>
+![满意](5.jpg)</br>
+![烦躁](6.jpg)</br>
+![期待](7.png)</br>
+![惊喜](8.png)</br>
+![信任](9.jpg)</br>
+![娱乐](0.png)</br>
+![困惑](11.jpg)</br>
 
 ## 重点功能的感情指标 统计与分析
 ## 数字形象界面的总体 情感指标 统计分析
