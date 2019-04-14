@@ -7,7 +7,18 @@
 其次是制作了鱼骨图，将用户对两个APP的情感指标用图片生动形象的表现出来，并分析其产生情绪的原因，并寻求将积极情绪延续，消极情绪消除的方法。
 然后我们制作了彩虹图，更清楚明白的看到不同性别用户侧重不同的方面评价，同时制作了亲和图来分类不同功能侧重的评论。
 ## 卡片设计
-![疑惑](1.png)![avatar](2.jpg)![avatar](3.jpg)![avatar](4.jpg)![avatar](5.jpg)![avatar](6.jpg)![avatar](7.png)![avatar](8.png)![avatar](9.jpg)![avatar](0.png)![avatar](11.jpg)
+![avatar](1.png)
+疑惑
+![avatar](2.jpg)
+![avatar](3.jpg)
+![avatar](4.jpg)
+![avatar](5.jpg)
+![avatar](6.jpg)
+![avatar](7.png)
+![avatar](8.png)
+![avatar](9.jpg)
+![avatar](0.png)
+![avatar](11.jpg)
 
 ## 重点功能的感情指标 统计与分析
 ## 数字形象界面的总体 情感指标 统计分析
