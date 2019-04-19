@@ -1,4 +1,3 @@
-[TOC]
 # Health-APP-user-research-report
 健康APP用户研究报告（完整版）
 ## 项目背景
